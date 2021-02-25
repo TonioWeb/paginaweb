@@ -8,7 +8,7 @@ window.onload = () => {
 
     let primero = links[1]
     primero.addEventListener('click', () => {
-      scrollSuave('#_Proyectos_', 500, 80)
+      scrollSuave('#Proyectooss', 500, 80)
     })
 
     let segundo = links[2]
